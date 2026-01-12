@@ -1,35 +1,35 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8E2DE2,4A00E0&height=250&section=header&text=AI%20Voice%20Assistant&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Next-Gen%20OS%20Automation%20%7C%20Powered%20by%20OpenAI&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=DA22FF,9733EE&height=250&section=header&text=AI%20Voice%20Assistant&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Next-Gen%20OS%20Automation%20%7C%20Powered%20by%20OpenAI&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Wake+Word+Detection+Active...;Listening+for+%22Jarvis%22...;Processing+Natural+Language...;Executing+System+Commands..."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=DA22FF&center=true&vCenter=true&width=600&lines=Wake+Word+Detection+Active...;Listening+for+%22Jarvis%22...;Processing+Natural+Language...;Executing+System+Commands..."/>
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://github.com/Abu-Sameer-66/AI-Voice-Assistant-Python">
-    <img src="https://img.shields.io/badge/AI-OpenAI_GPT_4-4A00E0?style=for-the-badge&logo=openai&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AI-OpenAI_GPT_4-9733EE?style=for-the-badge&logo=openai&logoColor=white"/>
   </a>
   <a href="https://github.com/Abu-Sameer-66/AI-Voice-Assistant-Python">
-    <img src="https://img.shields.io/badge/Python-3.10+-8E2DE2?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3.10+-DA22FF?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
   <a href="https://github.com/Abu-Sameer-66/AI-Voice-Assistant-Python">
-    <img src="https://img.shields.io/badge/Voice_Ops-Active-success?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/System-Online-success?style=for-the-badge"/>
   </a>
 </div>
 
 ---
 
-## 🧠 System Intelligence
+### 🧠 System Intelligence
 > **A production-grade voice assistant capable of context-aware conversation, OS-level task automation, and real-time information retrieval.**
 
 Unlike basic scripts, this assistant uses a **Modular "Brain-Body" Architecture**. It decouples the *Cognitive Layer* (OpenAI) from the *Action Layer* (OS Commands), allowing for scalable feature expansion.
 
 ---
 
-## ⚙️ Cognitive Architecture
+### ⚙️ Cognitive Architecture
 *The data flow from "Sound Wave" to "System Action":*
 
 ```mermaid
@@ -43,5 +43,5 @@ graph TD
     E -- 'News' --> G[📰 NewsAPI Fetch]
     E -- 'Chat' --> H[💬 GPT-3.5 Response]
     F & G & H --> I[🗣️ Audio Output]
-    style D fill:#8E2DE2,stroke:#4A00E0,stroke-width:2px,color:#fff
-    style I fill:#4A00E0,stroke:#8E2DE2,stroke-width:2px,color:#fff
+    style D fill:#DA22FF,stroke:#9733EE,stroke-width:2px,color:#fff
+    style I fill:#9733EE,stroke:#DA22FF,stroke-width:2px,color:#fff
