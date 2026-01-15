@@ -44,5 +44,5 @@ graph TD
     E -- 'News' --> G[📰 NewsAPI Fetch]
     E -- 'Chat' --> H[💬 GPT-3.5 Response]
     F & G & H --> I[🗣️ Audio Output]
-    style D fill:#B3140A,stroke:#9733EE,stroke-width:2px,color:#fff
-    style I fill:#B3140A,stroke:#DA22FF,stroke-width:2px,color:#fff
+    style D fill:#B3140A,stroke:#8A6B33,stroke-width:2px,color:#fff
+    style I fill:#B3140A,stroke:#8A6B33,stroke-width:2px,color:#fff
