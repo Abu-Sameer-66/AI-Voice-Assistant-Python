@@ -24,6 +24,7 @@
 
 ---
 
+
 ### 🧠 System Intelligence
 > **A production-grade voice assistant capable of context-aware conversation, OS-level task automation, and real-time information retrieval.**
 
