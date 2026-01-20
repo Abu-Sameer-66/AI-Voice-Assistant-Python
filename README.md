@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&ColorList=0f0f0f,1c1c1c,d4af37,8b8000,f5f5f5&height=250&section=header&text=AI%20Voice%20Assistant&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=NextGen%20OS%20Automation%20%7C%20Powered%20by%20OpenAI&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=cb2d3e&center=true&vCenter=true&width=600&lines=Wake+Word+Detection+Active...;Listening+for+%22Jarvis%22...;Processing+Natural+Language...;Executing+System+Commands..."/>
 </div>
@@ -21,9 +20,7 @@
   </a>
 </div>
 
-
 ---
-
 
 ### 🧠 System Intelligence
 > **A production-grade voice assistant capable of context-aware conversation, OS-level task automation, and real-time information retrieval.**
