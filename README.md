@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Wake+Word+Detection+Active...;Listening+for+%22Jarvis%22...;Processing+Natural+Language...;Executing+System+Commands..."/>
 </div>
 
-
 <br/>
 <div align="center">
   <a href="https://github.com/Abu-Sameer-66/AI-Voice-Assistant-Python">
